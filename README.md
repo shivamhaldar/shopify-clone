@@ -1,4 +1,4 @@
 # shopify-clone
 
 Preview :
-<img src="shopify-clone">
+<img src="shopify-clone.png">
